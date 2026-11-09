@@ -6,7 +6,7 @@ An interactive executive proposal prepared by Alexander Jaballah for Matt Weaver
 
 Published with GitHub Pages from the root of the `main` branch. The website is publicly accessible without signing in.
 
-Seven views connect Alexander’s leadership proposition to the market opportunity, scenario economics, all 34 named accounts, first 90 days, hiring and EMEA expansion, and evidence. The interactive leadership view maps five required capabilities to self-reported experience and measurable execution commitments.
+A six-part executive story reads in order: opportunity, pain points, required capabilities, Alexander’s track record, execution, and asks. Financial scenarios, all 34 accounts, regional detail and sources are in a separate appendix. The main story contains no sliders or scenario controls.
 
 ## Preview locally
 
@@ -18,7 +18,7 @@ Open http://127.0.0.1:4173. No build, database, dependencies, or API keys are re
 
 ## Update
 
-Edit the static files and push to `main`. GitHub Pages publishes the updated site automatically. Keep `.nojekyll` in place. Navigation and asset paths support the GitHub Pages project URL.
+Edit the static files and push to `main`. GitHub Pages publishes the updated site automatically. Keep `.nojekyll` in place. Navigation and asset paths support the GitHub Pages project URL. Printing produces the executive story; appendix tools are excluded from the brief.
 
 ## Model interpretation
 
