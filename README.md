@@ -6,7 +6,7 @@ An interactive executive proposal prepared by Alexander Jaballah for Matt Weaver
 
 Published with GitHub Pages from the root of the `main` branch. The website is publicly accessible without signing in.
 
-Six views cover the market opportunity, scenario economics, all 34 named accounts, first 90 days, hiring and EMEA expansion, and evidence.
+Seven views connect Alexander’s leadership proposition to the market opportunity, scenario economics, all 34 named accounts, first 90 days, hiring and EMEA expansion, and evidence. The interactive leadership view maps five required capabilities to self-reported experience and measurable execution commitments.
 
 ## Preview locally
 
