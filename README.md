@@ -1,27 +1,27 @@
-# OpenAI Nordics → EMEA growth proposal
+# OpenAI Nordic growth proposal
 
-An interactive executive proposal prepared by Alexander Jaballah for Matt Weaver.
+Prepared by Alexander Jaballah for Matt Weaver. Revised 11 November 2026.
 
-## Website
+Published at https://alexanderjaballah.github.io/openai-nordics-emea/ through GitHub Pages. The existing URL is retained; the current operating plan is Nordic-specific. Public access does not require sign-in.
 
-Published with GitHub Pages from the root of the `main` branch. The website is publicly accessible without signing in.
+## Executive story
 
-A six-part executive story reads in order: opportunity, pain points, required capabilities, Alexander’s track record, execution, and asks. Financial scenarios, all 34 accounts, regional detail and sources are in a separate appendix. The main story contains no sliders or scenario controls.
+Six short chapters: opportunity, pain points, five required capabilities, Alexander’s experience, execution and asks. Main-story controls are limited to navigation. Optional models, all 34 accounts, detailed execution, hiring, costs and sources are in the appendix.
 
-## Preview locally
+## Nordic organisation
 
-```sh
-python3 -m http.server 4173 --bind 127.0.0.1
-```
+One second-line leader, three first-line managers and seven sellers per manager: 21 sellers. Eight SE individual contributors in one team: 2.625 sellers per SE, approximately 2.6. Maximum eight SEs per team. A separate SE manager and 16 support roles are planning assumptions, yielding 50 total staff in the cost scenario.
 
-Open http://127.0.0.1:4173. No build, database, dependencies, or API keys are required.
+## Model
 
-## Update
+The unchanged market scenario is $12bn full-adoption annual spend across Nordic-headquartered enterprise groups’ global operations. The full account register retains 34 names; the proposed 31-account Nordic-priority subset is $1,893,412,000, not a strict legal-headquarters classification. Market and portfolio figures overlap.
 
-Edit the static files and push to `main`. GitHub Pages publishes the updated site automatically. Keep `.nojekyll` in place. Navigation and asset paths support the GitHub Pages project URL. Printing produces the executive story; appendix tools are excluded from the brief.
+Year-one Nordic ambition: 160 qualified opportunities × 25% conversion × $2.5m recurring ARR = $100m. Seller starts of 4 / 4 / 6 / 3 / 2 / 2 in months 1–6, with 25% / 50% / 75% / 100% productivity ramp, give 177.5 productive seller-months. At three wins per productive seller-year, capacity is 44.375 wins. One month of seller-start delay reduces capacity to 39.125 wins. These are assumptions, not demonstrated conversion or guaranteed capacity.
 
-## Model interpretation
+The monthly headcount schedule yields $9,231,666.67 in first-year people costs plus $1.5m activation, or $10,731,666.67. Fully staffed annual people cost is $10.88m. Unit costs, support roles and start dates require agreement; product delivery, inference and central overhead are excluded.
 
-Financial figures, workforce eligibility, buying scenarios, conversion, timing, and hiring targets are explicitly labeled planning assumptions, not OpenAI pricing or a company forecast. Account relationships are self-reported and require revalidation. Market and account portfolio estimates overlap and must not be added. Private contact and candidate details are excluded.
+## Preview and verify
 
-This is an independent proposal, not an official OpenAI website.
+Run `python3 -m http.server 4173 --bind 127.0.0.1` and open http://127.0.0.1:4173. No build, database or API key is required. Run `node --test model.test.mjs` for arithmetic, staffing-span and scope checks.
+
+Push to `main` to publish. Keep `.nojekyll`. Printing produces the short executive story. This is an independent proposal, not an official OpenAI website. Relationship and career claims are self-reported; references are available privately.
