@@ -1,0 +1,194 @@
+{
+  "folksam": {
+    "file": "folksam.svg",
+    "source": "https://www.folksam.se",
+    "kind": "Official inline brand mark"
+  },
+  "saab": {
+    "file": "saab.svg",
+    "source": "https://www.saab.com",
+    "kind": "Official inline brand mark"
+  },
+  "hafslund": {
+    "file": "hafslund.svg",
+    "source": "https://www.hafslund.no",
+    "kind": "Official inline brand mark"
+  },
+  "ica": {
+    "file": "ica.svg",
+    "source": "https://www.icagruppen.se",
+    "kind": "Official inline brand mark"
+  },
+  "deutsche": {
+    "file": "deutsche.png",
+    "source": "https://www.deutsche-boerse.com/resource/blob/124414/14bf5ae6b6f5dd3a57584a64a93e95b0/data/logo-dbg.png",
+    "page": "https://www.deutsche-boerse.com",
+    "kind": "Official website brand asset"
+  },
+  "nordea": {
+    "file": "nordea.svg",
+    "source": "https://www.nordea.com/themes/custom/nordea_theme/logo.svg",
+    "page": "https://www.nordea.com",
+    "kind": "Official website brand asset"
+  },
+  "seb": {
+    "file": "seb.svg",
+    "source": "https://sebgroup.com/Images/seb-wordmark-logo.svg",
+    "page": "https://sebgroup.com",
+    "kind": "Official website brand asset"
+  },
+  "swedbank": {
+    "file": "swedbank.svg",
+    "source": "https://www.swedbank.com/content/dam/global/brand/logotypes/8999-swedbank-logo-default.svg",
+    "page": "https://www.swedbank.com",
+    "kind": "Official website brand asset"
+  },
+  "nbim": {
+    "file": "nbim.svg",
+    "source": "https://www.nbim.no/static/images/logo.svg",
+    "page": "https://www.nbim.no",
+    "kind": "Official website brand asset"
+  },
+  "volvogroup": {
+    "file": "volvogroup.svg",
+    "source": "https://www.volvogroup.com/en/_jcr_content/root/header/logo.coreimg.svg/1731586347834/logo-volvo-group.svg",
+    "page": "https://www.volvogroup.com",
+    "kind": "Official website brand asset"
+  },
+  "scania": {
+    "file": "scania.svg",
+    "source": "https://www.scania.com/etc.clientlibs/scania-clientlibs/clientlibs/clientlib-site/resources/logotype/1.0.0/scania_symbol/scania-symbol.svg",
+    "page": "https://www.scania.com",
+    "kind": "Official website brand asset"
+  },
+  "schibsted": {
+    "file": "schibsted.png",
+    "source": "https://schibsted.com/apple-touch-icon-180x180.png",
+    "page": "https://schibsted.com",
+    "kind": "Official website brand asset"
+  },
+  "if": {
+    "file": "if.png",
+    "source": "https://www.if-insurance.com/static/img/favicons/favicon-196x196.png",
+    "page": "https://www.if-insurance.com",
+    "kind": "Official website brand asset"
+  },
+  "axel": {
+    "file": "axel.png",
+    "source": "https://www.axeljohnson.se/apple-touch-icon.png",
+    "page": "https://www.axeljohnson.se",
+    "kind": "Official website brand asset"
+  },
+  "novo": {
+    "file": "novo.ico",
+    "source": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/structure/page/clientlib/resources/favicon-v2.ico",
+    "page": "https://www.novonordisk.com",
+    "kind": "Official website brand asset"
+  },
+  "pandora": {
+    "file": "pandora.svg",
+    "source": "https://www.pandoragroup.com/favicon_light.svg",
+    "page": "https://www.pandoragroup.com",
+    "kind": "Official website brand asset"
+  },
+  "spotify": {
+    "file": "spotify.png",
+    "source": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+    "page": "https://www.spotify.com",
+    "kind": "Official website brand asset"
+  },
+  "betsson": {
+    "file": "betsson.svg",
+    "source": "https://www.betssonab.com/sites/default/files/logo.svg",
+    "page": "https://www.betssonab.com",
+    "kind": "Official website brand asset"
+  },
+  "dnb": {
+    "file": "dnb.png",
+    "source": "https://www.dnb.no/webframe/static/dnb/favicon-180x180.png",
+    "page": "https://www.dnb.no",
+    "kind": "Official website brand asset"
+  },
+  "legora": {
+    "file": "legora.png",
+    "source": "https://framerusercontent.com/images/t4E7HtGvgFipxaYtePy1dSQAjks.png",
+    "page": "https://legora.com",
+    "kind": "Official website brand asset"
+  },
+  "hm": {
+    "file": "hm.png",
+    "source": "https://hmgroup.com/wp-content/uploads/2025/01/hm-group-fav-ico.png",
+    "page": "https://hmgroup.com",
+    "kind": "Official website brand asset"
+  },
+  "vattenfall": {
+    "file": "vattenfall.svg",
+    "source": "https://group.vattenfall.com/assets/images/vattenfall_logo.svg",
+    "page": "https://group.vattenfall.com",
+    "kind": "Official website brand asset"
+  },
+  "securitas": {
+    "file": "securitas.svg",
+    "source": "https://www.securitas.com/images/brand/securitas_ab_logo.svg",
+    "page": "https://www.securitas.com",
+    "kind": "Official website brand asset"
+  },
+  "danske": {
+    "file": "danske.svg",
+    "source": "https://danskebank.com/-/media/danske-bank-images/logo/danske-bank-logo-svg.svg?iar=0&rev=0e441a0bbc8d416f8bebe06b22002475&hash=957BD8DC9B9BA20FF4DD2EFC1CD646EC",
+    "page": "https://danskebank.com",
+    "kind": "Official website brand asset"
+  },
+  "ikea": {
+    "file": "ikea.svg",
+    "source": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+    "page": "https://www.ikea.com",
+    "kind": "Official website brand asset"
+  },
+  "nokia": {
+    "file": "nokia.svg",
+    "source": "https://www.nokia.com/themes/custom/onenokia_reskin/logo.svg",
+    "page": "https://www.nokia.com",
+    "kind": "Official website brand asset"
+  },
+  "allianz": {
+    "file": "allianz.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Allianz.svg",
+    "kind": "Wikimedia Commons brand mark"
+  },
+  "volvocars": {
+    "file": "volvocars.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Volvo-Iron-Mark-Black.svg",
+    "kind": "Wikimedia Commons brand mark"
+  },
+  "ericsson": {
+    "file": "ericsson.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ericsson_%282018%29.svg",
+    "kind": "Wikimedia Commons brand mark"
+  },
+  "emirates": {
+    "file": "emirates.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Emirates_Logo.svg",
+    "kind": "Wikimedia Commons brand mark"
+  },
+  "lego": {
+    "file": "lego.svg",
+    "source": "https://www.lego.com/cdn/cs/aboutus/assets/blt06799f014ed2650e/LEGO_logo_RGB.svg",
+    "kind": "Company brand asset"
+  },
+  "lovable": {
+    "file": "lovable.svg",
+    "source": "https://lovable.dev/favicon.svg",
+    "kind": "Company brand asset"
+  },
+  "cint": {
+    "file": "cint.svg",
+    "source": "https://start.cint.com/hubfs/Media%20Page%20Assets/Cint_Logo-Purple.zip",
+    "kind": "Official media kit"
+  },
+  "voi": {
+    "file": "voi.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/Voi_Technology_Logo_2018.svg",
+    "kind": "Wikimedia Commons brand mark"
+  }
+}
