@@ -5,6 +5,10 @@ export const accessCounts = Object.fromEntries(network.map(a=>[a.id,{champions:n
 Object.assign(accessCounts,{seb:{champions:3,economicBuyers:1},nordea:{champions:4,economicBuyers:2},danske:{champions:1,economicBuyers:1},dnb:{champions:2,economicBuyers:2},swedbank:{champions:{min:3,max:4},economicBuyers:3}});
 Object.assign(accessCounts,{ericsson:{champions:4,economicBuyers:2},novo:{champions:2,economicBuyers:2}});
 Object.assign(accessCounts,{nbim:{champions:2,economicBuyers:1}});
+Object.assign(accessCounts,{lego:{champions:2,economicBuyers:1}});
+// Common range supplied by Alexander on 11 November 2026 for these remaining accounts.
+const remainingAccessIds=["deutsche","allianz","volvogroup","volvocars","scania","schibsted","folksam","if","ica","axel","pandora","spotify","betsson","cint","voi","lovable","legora","hm","saab","emirates","vattenfall","securitas","ikea","nokia","hafslund"];
+remainingAccessIds.forEach(id=>{accessCounts[id].champions??={min:1,max:2};accessCounts[id].economicBuyers??=1;});
 export const lighthouseIds = ['seb','nordea','danske','dnb','swedbank','ericsson','novo','ikea','nokia'];
 export const isLighthouse = a => lighthouseIds.includes(typeof a==='string'?a:a.id);
 export function countBounds(value){
