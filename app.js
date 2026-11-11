@@ -5,7 +5,7 @@ const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
 const money=(n,d=2)=>'$'+(n>=1e9?(n/1e9).toLocaleString('en-US',{maximumFractionDigits:d})+'B':n>=1e6?(n/1e6).toLocaleString('en-US',{maximumFractionDigits:d})+'M':Math.round(n/1000)+'k');
 const num=n=>n.toLocaleString('en-US',{maximumFractionDigits:1});
 const toast=t=>{const e=$('#toast');e.textContent=t;e.classList.add('show');clearTimeout(window.toastTimer);window.toastTimer=setTimeout(()=>e.classList.remove('show'),3500)};
-const storyIds=['overview','pains','capabilities','leadership','execution','asks'];
+const storyIds=['overview','hiring','pains','capabilities','leadership','wins','execution','asks'];
 const appendixIds=['appendix','market','accounts','plan','team','background','evidence'];
 let storyIsVisible=true;
 function markNavigation(id){$$('[data-nav]').forEach(a=>{const active=a.dataset.nav===id;a.classList.toggle('active',active);active?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current')});}

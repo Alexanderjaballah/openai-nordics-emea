@@ -1,9 +1,9 @@
 // Nordic operating plan. Role starts, costs and ramp are planning assumptions.
 export const roles = [
-  {id:'second',name:'Second-line sales leader',annualCost:300000,months:[1,1,1,1,1,1],basis:'Agreed structure'},
-  {id:'first',name:'First-line sales managers',annualCost:300000,months:[1,2,3,3,3,3],basis:'Agreed structure · 7 sellers each'},
-  {id:'ae',name:'Enterprise sellers',annualCost:250000,months:[4,8,14,17,19,21],basis:'Agreed structure · 21 total'},
-  {id:'se',name:'Solutions engineers',annualCost:200000,months:[2,4,6,7,8,8],basis:'Agreed coverage · one team of 8'},
+  {id:'second',name:'Second-line sales leader',annualCost:300000,months:[1,1,1,1,1,1],basis:'Reported sales plan'},
+  {id:'first',name:'First-line sales managers',annualCost:300000,months:[1,2,3,3,3,3],basis:'Reported sales plan · 7 sellers each'},
+  {id:'ae',name:'Enterprise sellers',annualCost:250000,months:[4,8,14,17,19,21],basis:'Reported sales plan · 21 total'},
+  {id:'se',name:'Solutions engineers',annualCost:200000,months:[2,4,6,7,8,8],basis:'Proposed coverage · one team of 8'},
   {id:'seManager',name:'SE manager',annualCost:250000,months:[0,1,1,1,1,1],basis:'Planning assumption · separate from 8 SEs'},
   {id:'cs',name:'Customer success',annualCost:180000,months:[1,2,3,4,5,6],basis:'Supporting capacity assumption'},
   {id:'sdr',name:'Sales development',annualCost:120000,months:[2,3,4,5,6,6],basis:'Supporting capacity assumption'},
