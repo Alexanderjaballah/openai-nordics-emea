@@ -25,3 +25,11 @@ The monthly headcount schedule yields $9,231,666.67 in first-year people costs p
 Run `python3 -m http.server 4173 --bind 127.0.0.1` and open http://127.0.0.1:4173. No build, database or API key is required. Run `node --test model.test.mjs` for arithmetic, staffing-span and scope checks.
 
 Push to `main` to publish. Keep `.nojekyll`. Printing produces the short executive story. This is an independent proposal, not an official OpenAI website. Relationship and career claims are self-reported; references are available privately.
+
+## Presentation and account access
+
+Use **Present** in the top bar to open a 17-slide, 16:9 presentation. It requests full screen when the browser permits it; the same presentation also runs inside the window. Use the arrows, Space / Page Down, Home / End or the slide chooser. Escape or Exit returns to reading. Account slides contain at most seven rows so every prior-business account remains readable.
+
+Required-capability rows alternate green and white in both modes. Customer scorecards list 27 prior-business accounts separately from six connection-only accounts. The complete appendix and CSV retain all 34 names, including Hafslund pending relationship confirmation. Nine proposed lighthouse priorities share the same icon in the main scorecards, appendix and presentation.
+
+`account-access.js` stores only user-supplied aggregate access counts. Null means unknown; zero means an explicitly supplied zero; `{min,max}` preserves a stated range. Summary tiles say how many accounts have supplied counts. A person may be both a champion and an economic buyer; totals across roles are not unique people. No individual contact information is published. TAM is modeled annual full-adoption spend; workflow opportunities and deal values require qualification.
