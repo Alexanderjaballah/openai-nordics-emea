@@ -1,12 +1,12 @@
 # OpenAI Nordic growth proposal
 
-Prepared by Alexander Jaballah for Matt Weaver. Revised 11 November 2026.
+Prepared by Alexander Jaballah. Revised 11 November 2026.
 
 Published at https://alexanderjaballah.github.io/openai-nordics-emea/ through GitHub Pages. The existing URL is retained; the current operating plan is Nordic-specific. Public access does not require sign-in.
 
 ## Executive story
 
-Eight short chapters: Nordic opportunity and future state, the reported initial hiring structure, trust and delay risks, five required capabilities, Alexander’s experience, customer wins and access, execution scorecard and mandate. Main-story controls are limited to navigation. Optional models, all 34 accounts, detailed execution, hiring, costs and sources are in the appendix.
+Seven short chapters: Nordic opportunity and future state, trust and delay risks, five required capabilities, Alexander’s experience, customer wins and access, execution with hiring and ARR, and the mandate. Main-story controls are limited to navigation. Optional models, all 34 accounts, detailed execution, hiring, costs and sources are in the appendix.
 
 ## Nordic organisation
 
@@ -28,7 +28,7 @@ Push to `main` to publish. Keep `.nojekyll`. Printing produces the short executi
 
 ## Presentation and account access
 
-Use **Present** in the top bar to open a 17-slide, 16:9 presentation. It requests full screen when the browser permits it; the same presentation also runs inside the window. Use the arrows, Space / Page Down, Home / End or the slide chooser. Escape or Exit returns to reading. Account slides contain at most seven rows so every prior-business account remains readable.
+Use **Present** in the top bar to open a 14-slide, 16:9 presentation. It requests full screen when the browser permits it; the same presentation also runs inside the window. Use the arrows, Space / Page Down, Home / End or the slide chooser. Escape or Exit returns to reading. Account slides contain at most seven rows so every prior-business account remains readable.
 
 Required-capability rows alternate green and white in both modes. Customer scorecards list 27 prior-business accounts separately from six connection-only accounts. The complete appendix and CSV retain all 34 names, including Hafslund pending relationship confirmation. Nine proposed lighthouse priorities share the same icon in the main scorecards, appendix and presentation.
 
@@ -38,3 +38,6 @@ Access update, 11 November 2026: nine account-specific entries are preserved (in
 
 
 Update, 11 November 2026: customer logos are served locally and their origins are recorded in `logos/sources.json`. Relationship counts now appear only in the consolidated 34-account scorecard; account tables, details and exports focus on TAM and opportunity. Earlier nine account-specific counts remain unchanged. Remaining accounts use the user-directed rule of two champions for large accounts, one for smaller accounts, and one EB. The explicit sizing convention is 10,000+ people in the existing account planning data. The BCG statistic is explained as four in 100 companies reporting at least five times their AI investment, not a claim that other companies receive no value.
+
+
+Story revision, 11 November 2026: removed recipient labels and the separate outcomes slide; hiring and the wider talent network are combined within execution. The 30/60/90-day scorecard and recurring revenue ambition share one slide. Leadership explicitly introduces Alexander Jaballah. Detailed capacity sensitivities remain in the optional appendix.
